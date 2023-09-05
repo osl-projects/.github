@@ -87,4 +87,4 @@ at OSL. Together, we can shape the future of open science.
 
 ### Graduated Projects
 
-We don't have any graduated projects at the moment.
+There is no graduated projects at the moment.
